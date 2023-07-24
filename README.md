@@ -2,6 +2,7 @@
 Welcome to the Vrinda Stores Sales Dashboard project for the year 2022! This interactive Excel dashboard provides a comprehensive analysis of the sales data for Vrinda Stores during the entire year of 2022. The dashboard offers various insights into the store's performance, highlighting sales trends and patterns across different categories.
 
 Dashboard Features :
+
 Interactive Visualizations: The dashboard contains dynamic and interactive visualizations that allow users to explore the sales data easily. Users can interact with the charts to drill down into specific details.
 
 Sales Performance: Gain a quick overview of the overall sales performance for the entire year of 2022. Key performance indicators such as Total Revenue, Total Units Sold, and Average Order Value are prominently displayed.
